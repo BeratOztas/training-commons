@@ -1,0 +1,3 @@
+com\epam\trainingcommons\CommonsApplication.class
+com\epam\trainingcommons\dto\TrainerWorkloadRequest.class
+com\epam\trainingcommons\utils\ActionType.class
