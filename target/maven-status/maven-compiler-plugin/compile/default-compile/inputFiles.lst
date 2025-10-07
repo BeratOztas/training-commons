@@ -1,3 +1,6 @@
-C:\Users\Berat\Documents\GitHub\gym-app\training-commons\src\main\java\com\epam\trainingcommons\CommonsApplication.java
-C:\Users\Berat\Documents\GitHub\gym-app\training-commons\src\main\java\com\epam\trainingcommons\dto\TrainerWorkloadRequest.java
-C:\Users\Berat\Documents\GitHub\gym-app\training-commons\src\main\java\com\epam\trainingcommons\utils\ActionType.java
+C:\Users\Berat\Documents\GitHub\training-commons\src\main\java\com\epam\trainingcommons\CommonsApplication.java
+C:\Users\Berat\Documents\GitHub\training-commons\src\main\java\com\epam\trainingcommons\dto\MonthlySummaryDto.java
+C:\Users\Berat\Documents\GitHub\training-commons\src\main\java\com\epam\trainingcommons\dto\TrainerWorkloadRequest.java
+C:\Users\Berat\Documents\GitHub\training-commons\src\main\java\com\epam\trainingcommons\dto\TrainerWorkloadResponse.java
+C:\Users\Berat\Documents\GitHub\training-commons\src\main\java\com\epam\trainingcommons\dto\YearlySummaryDto.java
+C:\Users\Berat\Documents\GitHub\training-commons\src\main\java\com\epam\trainingcommons\utils\ActionType.java
